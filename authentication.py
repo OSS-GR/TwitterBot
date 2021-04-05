@@ -1,7 +1,7 @@
 #Add your information for your own Twitter Account. You will need a Twitter developer account in order to receive the following keys.
 class authtwit:
 
-     def __init__(self):
+    def __init__(self):
         self.api_key = 'XXXXXXXXXXXXXXXXXXXXXXXXXX'
         self.api_secret = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
         self.access_token = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
