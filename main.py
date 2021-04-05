@@ -4,7 +4,7 @@ from authentication import *
 
 gc = gspread.service_account('credentials.json')
 
-t = Twitter(auth=OAuth(acc_token, acc_token_secret, api_key, api_secret))
+t = Twitter(auth=OAuth(access_token, access_token_secret, api_key, api_secret))
 
 
 # Open a sheet from a spreadsheet in one go
