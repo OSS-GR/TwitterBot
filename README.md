@@ -5,9 +5,9 @@ The text is found on your CSV file. It is taken from a cell in the CSV file, pos
 
 To use this code you will need to have the following dependencies installed on your system:
 * gspread (You can use 
-* ''' 
-* python -m pip install gspread 
-* ''' )
+''' 
+python -m pip install gspread 
+''' )
 * twitter (You can use ''' python -m pip install python-twitter ''')
 
 
