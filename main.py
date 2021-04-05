@@ -4,13 +4,14 @@ from authentication import *
 
 gc = gspread.service_account('credentials.json')
 
-t = Twitter(auth=OAuth(token, token_secret, consumer_key, consumer_secret))
+t = Twitter(auth=OAuth(acc_token, acc_token_secret, api_key, api_secret))
 
 
 # Open a sheet from a spreadsheet in one go
 wks = gc.open("My News").sheet1
 
-#Upcoming Tweet
+#Upcoming Tweet 
+#Text contained in cell  at "A2"
 nextTweet = wks.acell('A2').value
 
 #Post Tweet
