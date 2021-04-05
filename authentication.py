@@ -1,4 +1,5 @@
-consumer_key = 'who0gD0YKaAsltKXePRZB37WQ'
-consumer_secret = 'Zy6KSf7UTvKz17wwldyILd24qjK3tp2gCKpoSwGeFTYzuIJ9xL'
-token = '1359678289758060544-lXSc8UwEYzYTAjn7cy6ZbcxPUAJAi1'
-token_secret = 's5WHUOoaV8DrOMhBOdYKnnPLXFYXCI4REItICxXp1sici'
+#Add your information for your own Twitter Account. You will need a Twitter developer account in order to receive the following keys.
+consumer_key = 'XXXXXXXXXXXXXXXXXXXXXXXXX'
+consumer_secret = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
+token = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
+token_secret = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
