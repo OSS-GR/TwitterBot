@@ -12,3 +12,5 @@ python -m pip install gspread
 " )
 * twitter (You can use " python -m pip install python-twitter ")
 
+## License
+- Apache 2.0
